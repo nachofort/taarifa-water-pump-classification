@@ -23,6 +23,7 @@ Durante la fase de modelado, se realizó un experimento comparando algoritmos de
 
 ## 📁 Estructura del Repositorio
 
+```text
 ├── data/                   # Datasets crudos (no subidos por peso/privacidad)
 ├── notebooks/              # Cuadernos Jupyter con el EDA y la experimentación
 │   └── 01_exploracion_y_modelado.ipynb
@@ -31,3 +32,4 @@ Durante la fase de modelado, se realizó un experimento comparando algoritmos de
 │   └── main.py             # Script ejecutable de inferencia
 ├── submission_taarifa.csv  # Archivo de salida final
 └── README.md
+```
